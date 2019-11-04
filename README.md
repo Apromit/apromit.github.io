@@ -1,2 +1,2 @@
 # apromit.github.io
-My Resume Website
+My Portfolio Website
