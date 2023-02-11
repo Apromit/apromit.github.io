@@ -1,2 +1,2 @@
 # apromit.github.io
-Just a basic website try
+Changed all the errors in the webpage
